@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Punit :smile:
-- Data Analytics bootcamp graduate (April 2022, Juno College)
+- Data Analytics bootcamp graduate (April 2022, [Juno College](https://junocollege.com/))
 - Skilled in Excel / Sheets, SQL, Tableau, Python
 - 10 years in Banking 
 - Strengths: communication, Teamwork, attention to detail, diligence, relationship building
