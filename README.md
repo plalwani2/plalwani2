@@ -2,7 +2,9 @@
 - Data Analytics bootcamp graduate (April 2022, Juno College)
 - Skilled in Excel / Sheets, SQL, Tableau, Python
 - 10 years in Banking 
-- Strengths: communication, Teamwork, attention to detail, diligence, relatiosip building
+- Strengths: communication, Teamwork, attention to detail, diligence, relationship building
+
+My tech skills
 ![Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white) 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
