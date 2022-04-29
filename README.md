@@ -3,7 +3,7 @@
 - Skilled in Excel / Sheets, SQL, Tableau, Python
 - 10 years in Banking 
 - Strengths: communication, Teamwork, attention to detail, diligence, relationship building
-- my linkedin <www.linkedin.com/in/Punit-Lalwani/%22%3E<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+- my linkedin <www.linkedin.com/in/Punit-Lalwani/%22%[3E](<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>)<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 My tech skills
 
