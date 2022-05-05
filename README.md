@@ -2,9 +2,9 @@
 - Data Analytics bootcamp graduate (April 2022, [Juno College](https://junocollege.com/))
 - 10 years in Banking 
 - Strengths: communication, Teamwork, attention to detail, diligence, relationship building
-
-- <a href="https://www.linkedin.com/in/punit-lalwani/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-- <a href="mailto:punit.lalwani2@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+- How to get in touch with me
+<a href="https://www.linkedin.com/in/punit-lalwani/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:punit.lalwani2@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
               
 
               
