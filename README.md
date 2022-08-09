@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Punit :smile:
 - Data Analytics bootcamp graduate (April 2022, [Juno College](https://junocollege.com/))
 - 10 years in Banking 
-- Strengths: communication, Teamwork, attention to detail, diligence, relationship building
+- Strengths: Teamplayer, Attention to detail, Diligence, Relationship building, Strong Leadership, Effective communicator
 - Funfact about me: Born in Lagos, Nigeria
 - How to get in touch with me
 <a href="https://www.linkedin.com/in/punit-lalwani/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
