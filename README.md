@@ -4,6 +4,7 @@
 - Strengths: Teamplayer, Attention to detail, Diligence, Relationship building, Strong Leadership, Effective communicator
 - Funfact about me: Born in Lagos, Nigeria
 - How to get in touch with me
+
 <a href="https://www.linkedin.com/in/punit-lalwani/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:punit.lalwani2@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
               
