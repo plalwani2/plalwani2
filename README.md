@@ -11,7 +11,6 @@
 
               
               
-
 My tech skills
 
 ![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
