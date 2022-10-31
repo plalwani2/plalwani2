@@ -14,7 +14,7 @@
 My tech skills
 
 
-![SAS](https://www.vectorlogo.zone/logos/sas/sas-ar15.svg)
+![SAS](https://www.vectorlogo.zone/logos/sas/sas-ar20.svg)
 ![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![SAS](https://img.shields.io/badge/SAS-0000FF?style=for-the-badge&logo=sas&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
