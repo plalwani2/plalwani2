@@ -11,7 +11,7 @@
 
               
               
-My tech skills
+Tech Stack
 
 
 ![SAS](https://www.vectorlogo.zone/logos/sas/sas-ar21.svg)
