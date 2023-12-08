@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Punit :smile:
 - Data Analytics bootcamp graduate (April 2022, [Juno College](https://junocollege.com/))
-- 10 years in Banking 
+- Over 10 years in the Financial Services domain 
 - Strengths: Teamplayer, Attention to detail, Diligence, Relationship building, Strong Leadership, Effective communicator
 - Funfact: Born in Lagos, Nigeria
 - How to get in touch with me
